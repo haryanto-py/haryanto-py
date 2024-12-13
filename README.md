@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haryanto</h1>
 <h3 align="center">A passionate AI Engineer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haryanto-py&label=Profile%20views&color=0e75b6&style=flat" alt="haryanto-py" /> </p>
-
 - 🔭 I’m currently working on [UAV-Based River Trash Monitoring System](https://github.com/haryanto-py/river-garbage-detection)
 
 - 🌱 I’m currently learning **LLMs**
