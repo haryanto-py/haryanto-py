@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **LLMs**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1P2_et9nFn1IxxCH8BVJZQQ29BWml-DoG/view?usp=drive_link](https://drive.google.com/file/d/1P2_et9nFn1IxxCH8BVJZQQ29BWml-DoG/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://www.canva.com/design/DAGWXvt6Jdc/nejBSY-T8uggiJsoVYtK6g/view?utm_content=DAGWXvt6Jdc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc101a66347)
 
 - 📫 How to reach me **haryanto.hidayat13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fWMrE94kM22VEdUxaqObj44-kRSxyZDd/view?usp=sharing](https://drive.google.com/file/d/1fWMrE94kM22VEdUxaqObj44-kRSxyZDd/view?usp=sharing)
+- 📄 Know about my experiences [**Curriculum Vitae**](https://drive.google.com/file/d/1ZnFtG_HWkx9X3pmKk0jUjI72m3WZ59sc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
